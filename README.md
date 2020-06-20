@@ -1,2 +1,2 @@
-# Responsive-Web-UI
-Responsive-Web-UI with SCSS
+# Responsive-Web-UI for Leica Landing Page 
+
