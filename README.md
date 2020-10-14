@@ -1,2 +1,2 @@
-# Responsive-Web-UI for Leica Landing Page 
-
+# Responsive-Web-UI 
+Landing Page
